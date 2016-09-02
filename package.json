@@ -4,7 +4,11 @@
   "description": "A Single Application that allows people to donate money",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "0.10.x"
   },
   "keywords": [
     "React",
