@@ -1,5 +1,5 @@
 {
-  "name": "microapp donation",
+  "name": "microapp-donation",
   "version": "1.0.0",
   "description": "A Single Application that allows people to donate money",
   "main": "server.js",
