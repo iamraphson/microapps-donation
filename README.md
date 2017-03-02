@@ -6,7 +6,7 @@
 
 #### Getting started
 ```
-$ git clone <this_repo_url>
+$ git clone https://github.com/iamraphson/microapps-donation.git
 $ cd microapps-donation
 $ npm install
 $ nodemon server 
